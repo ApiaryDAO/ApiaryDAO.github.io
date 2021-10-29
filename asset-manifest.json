@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af7caea7.chunk.css",
+    "main.js": "/static/js/main.2c951612.chunk.js",
+    "main.js.map": "/static/js/main.2c951612.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64527fb8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64527fb8.js.map",
+    "static/js/2.29013b0e.chunk.js": "/static/js/2.29013b0e.chunk.js",
+    "static/js/2.29013b0e.chunk.js.map": "/static/js/2.29013b0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.af7caea7.chunk.css.map": "/static/css/main.af7caea7.chunk.css.map",
+    "static/js/2.29013b0e.chunk.js.LICENSE.txt": "/static/js/2.29013b0e.chunk.js.LICENSE.txt",
+    "static/media/APYDlogo.73f052a7.png": "/static/media/APYDlogo.73f052a7.png",
+    "static/media/HP_LOGO.508b3a8f.png": "/static/media/HP_LOGO.508b3a8f.png",
+    "static/media/Minus.f890e9e3.svg": "/static/media/Minus.f890e9e3.svg",
+    "static/media/Plus.ee2bd831.svg": "/static/media/Plus.ee2bd831.svg",
+    "static/media/lock.dd07cdc8.png": "/static/media/lock.dd07cdc8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64527fb8.js",
+    "static/js/2.29013b0e.chunk.js",
+    "static/css/main.af7caea7.chunk.css",
+    "static/js/main.2c951612.chunk.js"
+  ]
+}
